@@ -15,3 +15,5 @@ grunt基础知识点，了解后，会简单的使用grunt做压缩等
 - grunt.loadTasks() | grunt.task.loadTasks()
 - grunt.loadNpmTasks()
 - grunt.registerTask()
+### 资料
+- [插件](https://github.com/gruntjs)
